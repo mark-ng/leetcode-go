@@ -1,3 +1,5 @@
+// Day 2
+
 func isAlphanumeric(c byte) bool {
     return (c >= byte('A') && c <= byte('Z')) || (c >= byte('a') && c <= byte('z')) || (c >= byte('0') && c <= byte('9'))
 }

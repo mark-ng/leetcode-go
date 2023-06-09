@@ -1,3 +1,5 @@
+// Day 2
+
 func twoSum(nums []int, target int) []int {
     // k: offset, v: index
     m := map[int]int{}
